@@ -5,9 +5,6 @@ by Nagarjuna Yedla
 
 This code exercise demonstrates the use of ColdFusion and JavaScript to create single-page login/logout workflow.
 
-CDN
-The 'cdn' directory contains JavaScript helper libraries used in the exercise.
-
 jQuery: interact with DOM objects
 Bootstrap: page layout
 Fontawesome: Site icons
